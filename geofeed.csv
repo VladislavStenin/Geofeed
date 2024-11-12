@@ -1,6 +1,6 @@
 ﻿146.158.96.0/23,RU,RU-RA,Gorno-Altaisk,
 146.158.98.0/24,RU,RU-KDA,Krasnodar,
-146.158.99.0/24,RU,RU-RA,Gorno-Altaisk,
+146.158.99.0/24,RU,RU-KDA,Krasnodar,
 146.158.100.0/23,RU,RU-STA,Nevinomyssk,
 146.158.102.0/23,RU,RU-KEM,Kemerovo,
 146.158.104.0/23,RU,RU-KEM,Kemerovo,
@@ -17,3 +17,5 @@
 146.158.124.0/23,RU,RU-SAR,Saratov,
 146.158.126.0/23,RU,RU-PEN,Penza,
 93.171.184.0/24,RU,RU-UD,Izhevsk,
+93.171.185.0/24,RU,RU-ALT,Barnaul,
+93.171.186.0/24,RU,RU-KDA,Krasnodar,
